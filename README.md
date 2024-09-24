@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Gabriela</h1>
 <h3 align="center">A Data Analyst based in Germany</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gabriela-cl](https://github.com/gabriela-cl)
 
 - 📫 How to reach me **gabriela.cl.oliveira@gmail.com**
 
