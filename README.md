@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **gabriela.cl.oliveira@gmail.com**
 
-- 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1Oq3Ap1PaknAdJWSEn0Fap3dEyOiCaV5N/view?usp=sharing)**
+- 📄 Know about my experiences: **[My Resume]([https://drive.google.com/file/d/1Oq3Ap1PaknAdJWSEn0Fap3dEyOiCaV5N/view?usp=sharing](https://drive.google.com/file/d/1Q7YOWTohmHwKtt5ijT37E_ts-t1Pstb6/view?usp=sharing))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
